@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="465c8d07-12f7-4e5d-9dc8-d9d5a72c6088" name="Changes" comment="just added my_projects and some new py files">
+      <change afterPath="$PROJECT_DIR$/ProgrammingFunadamentals/more_things/test_list_divider.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProgrammingFunadamentals/18ListAdvancedExercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammingFunadamentals/18ListAdvancedExercise.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgrammingFunadamentals/more_things/additional20220615_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammingFunadamentals/more_things/additional20220615_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="listcomprehensiontiming" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test_list_divider" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Learning-42" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,7 +138,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProgrammingFunadamentals/more_things/listcomprehensiontiming.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProgrammingFunadamentals/more_things/test_list_divider.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,10 +150,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.18ListAdvancedExercise" />
+        <item itemvalue="Python.test_list_divider" />
         <item itemvalue="Python.additional20220615_2" />
         <item itemvalue="Python.aditional20220615" />
         <item itemvalue="Python.17ListAdvancedLab" />
-        <item itemvalue="Python.listcomprehensiontiming" />
       </list>
     </recent_temporary>
   </component>
