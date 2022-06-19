@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="465c8d07-12f7-4e5d-9dc8-d9d5a72c6088" name="Changes" comment="just added my_projects and some new py files">
-      <change afterPath="$PROJECT_DIR$/ProgrammingFunadamentals/more_things/test_list_divider.py" afterDir="false" />
+    <list default="true" id="465c8d07-12f7-4e5d-9dc8-d9d5a72c6088" name="Changes" comment="finished list advanced exercises">
+      <change afterPath="$PROJECT_DIR$/ProgrammingFunadamentals/18extra_ConnectTheDots.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammingFunadamentals/18extra_KatesWayOut.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgrammingFunadamentals/18ListAdvancedExercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammingFunadamentals/18ListAdvancedExercise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingFunadamentals/18ListAdvancedMoreExercises.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammingFunadamentals/18ListAdvancedMoreExercises.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,28 +42,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Python.18ListAdvancedExercise">
-    <configuration name="17ListAdvancedLab" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SoftUni-Learning-42" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProgrammingFunadamentals" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProgrammingFunadamentals/17ListAdvancedLab.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.18extra_ConnectTheDots (1)">
     <configuration name="18ListAdvancedExercise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Learning-42" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,7 +64,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="additional20220615_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="18ListAdvancedMoreExercises" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Learning-42" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,11 +72,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProgrammingFunadamentals/more_things" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProgrammingFunadamentals" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProgrammingFunadamentals/more_things/additional20220615_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProgrammingFunadamentals/18ListAdvancedMoreExercises.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aditional20220615" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="18extra_ConnectTheDots (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Learning-42" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,11 +93,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProgrammingFunadamentals/more_things" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProgrammingFunadamentals" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProgrammingFunadamentals/more_things/aditional20220615.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProgrammingFunadamentals/18extra_ConnectTheDots.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_list_divider" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="18extra_ConnectTheDots" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Learning-42" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,11 +114,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProgrammingFunadamentals/more_things" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProgrammingFunadamentals" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProgrammingFunadamentals/more_things/test_list_divider.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\bobsa\Documents\GitHub\SoftUni-Learning-42\ProgrammingFunadamentals\18extra_ConnectTheDots.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="18extra_KatesWayOut" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoftUni-Learning-42" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProgrammingFunadamentals" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProgrammingFunadamentals/18extra_KatesWayOut.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.18extra_ConnectTheDots (1)" />
+        <item itemvalue="Python.18extra_ConnectTheDots" />
+        <item itemvalue="Python.18extra_KatesWayOut" />
+        <item itemvalue="Python.18ListAdvancedMoreExercises" />
         <item itemvalue="Python.18ListAdvancedExercise" />
-        <item itemvalue="Python.test_list_divider" />
-        <item itemvalue="Python.additional20220615_2" />
-        <item itemvalue="Python.aditional20220615" />
-        <item itemvalue="Python.17ListAdvancedLab" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655587595152</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="finished list advanced exercises">
+      <created>1655639107370</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655639107370</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -205,6 +213,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="just added my_projeccts and some new py files" />
     <MESSAGE value="just added my_projects and some new py files" />
-    <option name="LAST_COMMIT_MESSAGE" value="just added my_projects and some new py files" />
+    <MESSAGE value="finished list advanced exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished list advanced exercises" />
   </component>
 </project>
