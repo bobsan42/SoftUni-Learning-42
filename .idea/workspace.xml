@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="465c8d07-12f7-4e5d-9dc8-d9d5a72c6088" name="Changes" comment="mid exam preparation 1">
-      <change afterPath="$PROJECT_DIR$/ProgrammingFunadamentals/19MidExamPreparation/04MoreProblems.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgrammingFunadamentals/20RegularMidExam/01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgrammingFunadamentals/20RegularMidExam/02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgrammingFunadamentals/20RegularMidExam/03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="465c8d07-12f7-4e5d-9dc8-d9d5a72c6088" name="Changes" comment="mid exam 2022-06-26" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -229,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655762007526</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="mid exam 2022-06-26">
+      <created>1656253630081</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1656253630081</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -250,6 +251,7 @@
     <MESSAGE value="finished list advanced exercises" />
     <MESSAGE value="finished list advanced MORE exercises" />
     <MESSAGE value="mid exam preparation 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="mid exam preparation 1" />
+    <MESSAGE value="mid exam 2022-06-26" />
+    <option name="LAST_COMMIT_MESSAGE" value="mid exam 2022-06-26" />
   </component>
 </project>
