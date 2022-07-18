@@ -3,6 +3,9 @@
 # https://judge.softuni.org/Contests/Practice/Index/376#0
 
 def time_add_seconds(init_time: str, seconds_to_add: int):
+    """
+    ;rtype: int
+    """
     time_limits = [24, 60, 60]
     numbers_list = list(map(int, init_time.split(':')))
     result = [None] * 3
