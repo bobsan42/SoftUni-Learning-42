@@ -5,13 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="465c8d07-12f7-4e5d-9dc8-d9d5a72c6088" name="Changes" comment="21 Classes And Objects">
-      <change afterPath="$PROJECT_DIR$/ProgrammingFunadamentals/a22ClassesAndObjectsExercise/catalogue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgrammingFunadamentals/a22ClassesAndObjectsExercise/inventory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgrammingFunadamentals/a22ClassesAndObjectsExercise/storage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgrammingFunadamentals/a22ClassesAndObjectsExercise/sub_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgrammingFunadamentals/a22ClassesAndObjectsExercise/town.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgrammingFunadamentals/a22ClassesAndObjectsExercise/weapon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammingFunadamentals/a22ClassesAndObjectsExercise/articles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammingFunadamentals/a22ClassesAndObjectsExercise/catalogue2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammingFunadamentals/a22ClassesAndObjectsExercise/movie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammingFunadamentals/a22ClassesAndObjectsExercise/vehicle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammingFunadamentals/a24Dictionaries/asciivalues.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammingFunadamentals/a24Dictionaries/bakery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammingFunadamentals/a24Dictionaries/oddoccurrences.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammingFunadamentals/a24Dictionaries/statistics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammingFunadamentals/a24Dictionaries/stock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammingFunadamentals/a24Dictionaries/students.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammingFunadamentals/a24Dictionaries/word_synonyms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammingFunadamentals/a25DictionariesExrecises/academy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammingFunadamentals/a25DictionariesExrecises/capitals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammingFunadamentals/a25DictionariesExrecises/comapny_users.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammingFunadamentals/a25DictionariesExrecises/countchars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammingFunadamentals/a25DictionariesExrecises/courses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammingFunadamentals/a25DictionariesExrecises/exam_results.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammingFunadamentals/a25DictionariesExrecises/force_book.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammingFunadamentals/a25DictionariesExrecises/legendary_farming.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammingFunadamentals/a25DictionariesExrecises/minertask.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammingFunadamentals/a25DictionariesExrecises/orders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammingFunadamentals/a25DictionariesExrecises/phonebook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammingFunadamentals/a25DictionariesExrecises/suparking.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingFunadamentals/a22ClassesAndObjectsExercise/inventory.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammingFunadamentals/a22ClassesAndObjectsExercise/inventory.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,17 +61,18 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bobsa\Documents\GitHub\SoftUni-Learning-42\ProgrammingFunadamentals\a25DictionariesExrecises" />
       <recent name="C:\Users\bobsa\Documents\GitHub\SoftUni-Learning-42\ProgrammingFunadamentals" />
       <recent name="C:\Users\bobsa\Documents\GitHub\SoftUni-Learning-42\ProgrammingFunadamentals\21ClassesAndObjects\parent_child_example" />
       <recent name="C:\Users\bobsa\Documents\GitHub\SoftUni-Learning-42\ProgrammingFunadamentals\20RegularMidExam" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.sub_class">
-    <configuration name="catalogue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.exam_results">
+    <configuration name="academy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Learning-42" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,11 +80,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProgrammingFunadamentals/a22ClassesAndObjectsExercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProgrammingFunadamentals/a25DictionariesExrecises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProgrammingFunadamentals/a22ClassesAndObjectsExercise/catalogue.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProgrammingFunadamentals/a25DictionariesExrecises/academy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="storage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="comapny_users" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Learning-42" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,11 +101,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProgrammingFunadamentals/a22ClassesAndObjectsExercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProgrammingFunadamentals/a25DictionariesExrecises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProgrammingFunadamentals/a22ClassesAndObjectsExercise/storage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProgrammingFunadamentals/a25DictionariesExrecises/comapny_users.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sub_class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="courses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Learning-42" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,11 +122,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProgrammingFunadamentals/a22ClassesAndObjectsExercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProgrammingFunadamentals/a25DictionariesExrecises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProgrammingFunadamentals/a22ClassesAndObjectsExercise/sub_class.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProgrammingFunadamentals/a25DictionariesExrecises/courses.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="town" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exam_results" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Learning-42" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,11 +143,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProgrammingFunadamentals/a22ClassesAndObjectsExercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProgrammingFunadamentals/a25DictionariesExrecises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProgrammingFunadamentals/a22ClassesAndObjectsExercise/town.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProgrammingFunadamentals/a25DictionariesExrecises/exam_results.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="weapon" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="force_book" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Learning-42" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,11 +164,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProgrammingFunadamentals/a22ClassesAndObjectsExercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProgrammingFunadamentals/a25DictionariesExrecises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProgrammingFunadamentals/a22ClassesAndObjectsExercise/weapon.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProgrammingFunadamentals/a25DictionariesExrecises/force_book.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.sub_class" />
-        <item itemvalue="Python.town" />
-        <item itemvalue="Python.catalogue" />
-        <item itemvalue="Python.weapon" />
-        <item itemvalue="Python.storage" />
+        <item itemvalue="Python.exam_results" />
+        <item itemvalue="Python.force_book" />
+        <item itemvalue="Python.comapny_users" />
+        <item itemvalue="Python.academy" />
+        <item itemvalue="Python.courses" />
       </list>
     </recent_temporary>
   </component>
