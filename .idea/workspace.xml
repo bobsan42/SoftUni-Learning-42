@@ -5,25 +5,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="465c8d07-12f7-4e5d-9dc8-d9d5a72c6088" name="Changes" comment="21 Classes And Objects">
-      <change afterPath="$PROJECT_DIR$/PythonOOP/01Introduction/classAnimal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/01Introduction/classBook.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/01Introduction/classCar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/01Introduction/classMusic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/01Introduction/classPerson.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/01Introduction/file02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/01Introduction/rhombusOOP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/ClassesAndObjects/classCircle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/ClassesAndObjects/classGlass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/ClassesAndObjects/classLaptop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/ClassesAndObjects/classPoint.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/ClassesAndObjects/clssSmatphone.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/ClassesAndObjects/dunderMethods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/ClassesAndObjects/file01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RegularExam/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RegularExam/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RegularExam/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RegularExam/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonOOP/oop03inheritance/DiamondProblem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonOOP/oop03inheritance/classAnimal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonOOP/oop03inheritance/classCars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonOOP/oop03inheritance/classDogAndCat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonOOP/oop03inheritance/classFood.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonOOP/oop03inheritance/classPerson.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonOOP/oop03inheritance/classStack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonOOP/oop03inheritance/classesTeacher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonOOP/oop03inheritance/inheritanceHierarchical.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonOOP/oop03inheritance/inheritanceMultilevel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonOOP/oop03inheritance/inheritanceMultiple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonOOP/oop03inheritance/inheritanceSingle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonOOP/oop03inheritance/strMixin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonOOP/oop03inheritance/superMethod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonOOP/oop04Encapsulation/class3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonOOP/oop04Encapsulation/person1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonOOP/oop04Encapsulation/person2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project03/animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project03/car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project03/dog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project03/sports_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project03/vehicle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonOOP/01Introduction/classAnimal.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonOOP/oop01Introduction/classAnimal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonOOP/01Introduction/classBook.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonOOP/oop01Introduction/classBook.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonOOP/01Introduction/classCar.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonOOP/oop01Introduction/classCar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonOOP/01Introduction/classMusic.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonOOP/oop01Introduction/classMusic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonOOP/01Introduction/classPerson.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonOOP/oop01Introduction/classPerson.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonOOP/01Introduction/file02.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonOOP/oop01Introduction/file02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonOOP/01Introduction/rhombusOOP.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonOOP/oop01Introduction/rhombusOOP.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonOOP/ClassesAndObjects/classCircle.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonOOP/oop02ClassesAndObjects/classCircle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonOOP/ClassesAndObjects/classGlass.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonOOP/oop02ClassesAndObjects/classGlass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonOOP/ClassesAndObjects/classLaptop.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonOOP/oop02ClassesAndObjects/classLaptop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonOOP/ClassesAndObjects/classPoint.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonOOP/oop02ClassesAndObjects/classPoint.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonOOP/ClassesAndObjects/clssSmatphone.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonOOP/oop02ClassesAndObjects/clssSmatphone.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonOOP/ClassesAndObjects/dunderMethods.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonOOP/oop02ClassesAndObjects/dunderMethods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonOOP/ClassesAndObjects/file01.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonOOP/oop02ClassesAndObjects/file01.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,15 +79,15 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bobsa\Documents\GitHub\SoftUni-Learning-42" />
+      <recent name="C:\Users\bobsa\Documents\GitHub\SoftUni-Learning-42\PythonOOP\oop03inheritance" />
       <recent name="C:\Users\bobsa\Documents\GitHub\SoftUni-Learning-42\PythonOOP\CassesAndObjects" />
       <recent name="C:\Users\bobsa\Documents\GitHub\SoftUni-Learning-42\PythonOOP\01Introduction" />
-      <recent name="C:\Users\bobsa\Documents\GitHub\SoftUni-Learning-42" />
       <recent name="C:\Users\bobsa\Documents\GitHub\SoftUni-Learning-42\PythonAdvanced\ErrorHandling" />
-      <recent name="C:\Users\bobsa\Documents\GitHub\SoftUni-Learning-42\PythonAdvanced" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.clssSmatphone">
-    <configuration name="classCircle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.person2">
+    <configuration name="DiamondProblem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Learning-42" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,11 +95,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonOOP/CassesAndObjects" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonOOP/oop02inheritance" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonOOP/CassesAndObjects/classCircle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonOOP/oop02inheritance/DiamondProblem.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="classGlass" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="classStack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Learning-42" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,11 +116,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonOOP/CassesAndObjects" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonOOP/oop02inheritance" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonOOP/CassesAndObjects/classGlass.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonOOP/oop02inheritance/classStack.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="classPoint" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="person1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Learning-42" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,11 +137,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonOOP/CassesAndObjects" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonOOP/oop04Encapsulation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonOOP/CassesAndObjects/classPoint.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonOOP/oop04Encapsulation/person1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="clssSmatphone" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="person2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Learning-42" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,11 +158,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonOOP/CassesAndObjects" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonOOP/oop04Encapsulation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonOOP/CassesAndObjects/clssSmatphone.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonOOP/oop04Encapsulation/person2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,7 +171,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dunderMethods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="strMixin" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Learning-42" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,11 +179,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonOOP/CassesAndObjects" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonOOP/oop02inheritance" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonOOP/CassesAndObjects/dunderMethods.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonOOP/oop02inheritance/strMixin.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.clssSmatphone" />
-        <item itemvalue="Python.dunderMethods" />
-        <item itemvalue="Python.classCircle" />
-        <item itemvalue="Python.classGlass" />
-        <item itemvalue="Python.classPoint" />
+        <item itemvalue="Python.person2" />
+        <item itemvalue="Python.person1" />
+        <item itemvalue="Python.classStack" />
+        <item itemvalue="Python.strMixin" />
+        <item itemvalue="Python.DiamondProblem" />
       </list>
     </recent_temporary>
   </component>
