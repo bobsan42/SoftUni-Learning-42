@@ -5,45 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="465c8d07-12f7-4e5d-9dc8-d9d5a72c6088" name="Changes" comment="21 Classes And Objects">
-      <change afterPath="$PROJECT_DIR$/PythonOOP/oop03inheritance/DiamondProblem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/oop03inheritance/classAnimal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/oop03inheritance/classCars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/oop03inheritance/classDogAndCat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/oop03inheritance/classFood.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/oop03inheritance/classPerson.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/oop03inheritance/classStack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/oop03inheritance/classesTeacher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/oop03inheritance/inheritanceHierarchical.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/oop03inheritance/inheritanceMultilevel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/oop03inheritance/inheritanceMultiple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/oop03inheritance/inheritanceSingle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/oop03inheritance/strMixin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/oop03inheritance/superMethod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/oop04Encapsulation/class3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/oop04Encapsulation/person1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/oop04Encapsulation/person2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project03/animal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project03/car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project03/dog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project03/sports_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project03/vehicle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonOOP/oop05StaticAndClassMethods/classCalculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonOOP/oop05StaticAndClassMethods/classEmployee2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonOOP/oop05StaticAndClassMethods/classInteger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonOOP/oop05StaticAndClassMethods/classPerson1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonOOP/oop05StaticAndClassMethods/classPerson2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonOOP/oop05StaticAndClassMethods/classPizza.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonOOP/oop05StaticAndClassMethods/classShop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonOOP/oop05StaticAndClassMethods/testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonOOP/oop06Polymorphism/DuckTyping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonOOP/oop06Polymorphism/Shapes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonOOP/oop06Polymorphism/abstract0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonOOP/oop06Polymorphism/abstract01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonOOP/oop06Polymorphism/abstract02ABC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonOOP/oop06Polymorphism/abstractShapes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonOOP/oop06Polymorphism/imageComparison.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonOOP/oop06Polymorphism/overriding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonOOP/oop06Polymorphism/purchase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonOOP/oop06Polymorphism/robots.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonOOP/oop06Polymorphism/salary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project05/hotel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project05/room.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project05/testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project05/tests.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonOOP/01Introduction/classAnimal.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonOOP/oop01Introduction/classAnimal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonOOP/01Introduction/classBook.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonOOP/oop01Introduction/classBook.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonOOP/01Introduction/classCar.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonOOP/oop01Introduction/classCar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonOOP/01Introduction/classMusic.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonOOP/oop01Introduction/classMusic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonOOP/01Introduction/classPerson.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonOOP/oop01Introduction/classPerson.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonOOP/01Introduction/file02.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonOOP/oop01Introduction/file02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonOOP/01Introduction/rhombusOOP.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonOOP/oop01Introduction/rhombusOOP.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonOOP/ClassesAndObjects/classCircle.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonOOP/oop02ClassesAndObjects/classCircle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonOOP/ClassesAndObjects/classGlass.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonOOP/oop02ClassesAndObjects/classGlass.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonOOP/ClassesAndObjects/classLaptop.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonOOP/oop02ClassesAndObjects/classLaptop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonOOP/ClassesAndObjects/classPoint.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonOOP/oop02ClassesAndObjects/classPoint.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonOOP/ClassesAndObjects/clssSmatphone.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonOOP/oop02ClassesAndObjects/clssSmatphone.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonOOP/ClassesAndObjects/dunderMethods.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonOOP/oop02ClassesAndObjects/dunderMethods.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonOOP/ClassesAndObjects/file01.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonOOP/oop02ClassesAndObjects/file01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonOOP/oop04Encapsulation/class3.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonOOP/oop04Encapsulation/class3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.zip" beforeDir="false" afterPath="$PROJECT_DIR$/project.zip" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,8 +73,8 @@
       <recent name="C:\Users\bobsa\Documents\GitHub\SoftUni-Learning-42\PythonAdvanced\ErrorHandling" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.person2">
-    <configuration name="DiamondProblem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.abstractShapes">
+    <configuration name="DuckTyping" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Learning-42" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,11 +82,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonOOP/oop02inheritance" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonOOP/oop06Polymorphism" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonOOP/oop02inheritance/DiamondProblem.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonOOP/oop06Polymorphism/DuckTyping.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="classStack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="abstract02ABC" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Learning-42" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,11 +103,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonOOP/oop02inheritance" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonOOP/oop06Polymorphism" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonOOP/oop02inheritance/classStack.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonOOP/oop06Polymorphism/abstract02ABC.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="person1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="abstractShapes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Learning-42" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,11 +124,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonOOP/oop04Encapsulation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonOOP/oop06Polymorphism" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonOOP/oop04Encapsulation/person1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonOOP/oop06Polymorphism/abstractShapes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="person2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="purchase" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Learning-42" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,11 +145,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonOOP/oop04Encapsulation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonOOP/oop06Polymorphism" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonOOP/oop04Encapsulation/person2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonOOP/oop06Polymorphism/purchase.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,7 +158,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="strMixin" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="salary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Learning-42" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -179,11 +166,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonOOP/oop02inheritance" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonOOP/oop06Polymorphism" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonOOP/oop02inheritance/strMixin.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonOOP/oop06Polymorphism/salary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.person2" />
-        <item itemvalue="Python.person1" />
-        <item itemvalue="Python.classStack" />
-        <item itemvalue="Python.strMixin" />
-        <item itemvalue="Python.DiamondProblem" />
+        <item itemvalue="Python.abstractShapes" />
+        <item itemvalue="Python.abstract02ABC" />
+        <item itemvalue="Python.DuckTyping" />
+        <item itemvalue="Python.salary" />
+        <item itemvalue="Python.purchase" />
       </list>
     </recent_temporary>
   </component>
@@ -305,5 +292,16 @@
     <MESSAGE value="mid exam 2022-06-26" />
     <MESSAGE value="21 Classes And Objects" />
     <option name="LAST_COMMIT_MESSAGE" value="21 Classes And Objects" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PythonOOP/oop06Polymorphism/DuckTyping.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

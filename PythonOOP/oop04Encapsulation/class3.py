@@ -26,3 +26,4 @@ class Mammal:
 
     def info(self):
         return f"{self.name} is of type {self.type}"
+
