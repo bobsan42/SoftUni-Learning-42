@@ -5,32 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="465c8d07-12f7-4e5d-9dc8-d9d5a72c6088" name="Changes" comment="21 Classes And Objects">
-      <change afterPath="$PROJECT_DIR$/PythonOOP/oop05StaticAndClassMethods/classCalculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/oop05StaticAndClassMethods/classEmployee2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/oop05StaticAndClassMethods/classInteger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/oop05StaticAndClassMethods/classPerson1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/oop05StaticAndClassMethods/classPerson2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/oop05StaticAndClassMethods/classPizza.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/oop05StaticAndClassMethods/classShop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/oop05StaticAndClassMethods/testing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/oop06Polymorphism/DuckTyping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/oop06Polymorphism/Shapes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/oop06Polymorphism/abstract0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/oop06Polymorphism/abstract01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/oop06Polymorphism/abstract02ABC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/oop06Polymorphism/abstractShapes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/oop06Polymorphism/imageComparison.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/oop06Polymorphism/overriding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/oop06Polymorphism/purchase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/oop06Polymorphism/robots.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonOOP/oop06Polymorphism/salary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project05/hotel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project05/room.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project05/testing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project05/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/horse_race.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/horse_race_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/horse_specification/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/horse_specification/appaloosa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/horse_specification/horse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/horse_specification/thoroughbred.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/jockey.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop_exam_prep1/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonOOP/oop04Encapsulation/class3.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonOOP/oop04Encapsulation/class3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project.zip" beforeDir="false" afterPath="$PROJECT_DIR$/project.zip" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +58,7 @@
       <recent name="C:\Users\bobsa\Documents\GitHub\SoftUni-Learning-42\PythonAdvanced\ErrorHandling" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.abstractShapes">
+  <component name="RunManager" selected="Python.tests">
     <configuration name="DuckTyping" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Learning-42" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -137,27 +122,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="purchase" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SoftUni-Learning-42" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonOOP/oop06Polymorphism" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonOOP/oop06Polymorphism/purchase.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="salary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Learning-42" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -179,13 +143,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="tests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoftUni-Learning-42" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project/tests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tests" />
         <item itemvalue="Python.abstractShapes" />
         <item itemvalue="Python.abstract02ABC" />
         <item itemvalue="Python.DuckTyping" />
         <item itemvalue="Python.salary" />
-        <item itemvalue="Python.purchase" />
       </list>
     </recent_temporary>
   </component>
