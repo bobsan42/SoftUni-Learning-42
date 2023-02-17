@@ -1,0 +1,21 @@
+h1{
+    font-size: 42px;
+    color: red;
+}
+#par_1{
+    color: greenyellow;
+    background-color: purple;
+}
+.ordered .item{
+    color: coral;
+}
+.text{
+    background-color: grey;
+
+}
+body{
+    background-color: antiquewhite;
+}
+/* body{
+    background-color: antiquewhite;
+} */
