@@ -1,0 +1,197 @@
+/* css variables */
+:root{
+    --page-light-gray: #efefef;
+    --icons-gray-dark: #909090;
+    --gray-title: #222222 ;
+}
+
+/* Global Styles */
+
+body {
+    font-family: 'Raleway', sans-serif;
+    color: var(--gray-title);
+}
+
+.page-section {
+    max-width: 1880px;
+    margin: 1.5rem auto;
+    background-color: var(--page-light-gray);
+    height: calc(100vh - 3rem);
+    padding: 3rem 5rem;
+    overflow: hidden;
+}
+
+.section-flexed{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.section-flexed .section-info {
+    flex:0 0 50%;
+    /* max-width: 30%; */
+    /* margin-left: 3rem; */
+}
+.section-flexed .section-img {
+    flex:0 1 35%;
+}
+
+
+.section-flexed .title{
+    font-size: 3rem;
+    font-weight: normal;
+    margin-bottom: 2.5rem;
+    
+}  
+.page-section .desc{
+    font-style: italic;
+    font-weight: normal;
+    margin-bottom: 2rem;
+    
+}  
+
+.page-section .divider.vertical {
+    height: 5rem;
+    width: 1px;
+    background-color: var(--gray-title);
+
+}
+.page-section .divider.horizontal {
+    width: 5rem;
+    height: 1px;
+    background-color: var(--gray-title);
+
+}
+.page-section .title .bolded{
+    font-weight: bold;
+}  
+
+/* Herol */
+#hero.page-section {
+    position: relative;
+}
+
+#hero .navigation { 
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+
+}
+#hero .hero-img{
+    position: absolute;
+    width: 50%;
+    bottom: 0px;
+    right: 5rem;
+}
+
+/* Camera */
+#camera .socials {
+    display: flex;
+    align-items: center ;
+    gap: 2rem;
+}
+
+#camera .socials .social {
+    width: 3rem;
+    height: 3rem;
+    background-color: var(--icons-gray-dark);
+    color: white;
+    position: relative;
+
+}
+#camera .socials .social i{
+    font-size: 2rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+#stairs .section-img {
+    max-height: 60%;
+}
+
+/* Gallery */
+
+#gallery {
+    display: flex;
+    align-items: center;
+}
+#gallery .list {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 1rem;
+}
+
+/* #gallery .list .picture{
+    transform: scale(1);
+    transition: transform 300ms ease-in-out; 
+} */
+
+#gallery .list .picture:hover{
+    z-index: 1;
+    transform: scale(1.5);
+}
+
+/* #gallery .list :nth-child(2){
+    transform: scale(1.5)
+}
+ */
+
+ /* Contacts */
+
+ #contacts .form {
+    max-width: 70%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-areas: 
+    "email subject"
+    "msg msg"
+    "submit submit";
+    gap: 1.25rem;
+ }
+ 
+ #contacts .form input {
+    background-color: transparent;
+    border: 1px solid var(--gray-title); 
+    padding: .25rem;
+    width: 100%;
+ }
+ 
+ #contacts .form textarea{
+    width: 100%;
+    resize: none;
+ }
+#contacts .form .btn {
+    width: 100%;
+    padding: .5rem;
+    text-align: center;
+    border: 1px solid var(--gray-title);
+    background-color: var(--gray-title);
+    color: var(--page-light-gray);
+    grid-area: submit;
+}
+
+#contacts .form .email {
+    grid-area: email;
+}
+
+#contacts .form .subject {
+    grid-area: subject;
+}
+#contacts .form .msg {
+    grid-area: msg;
+}
+
+#contacts .section-info{
+    margin: 1rem auto;
+    max-width: 70%;
+    text-align: center;
+}
+#contacts .copyr{
+    text-align: center;
+/*     display: flex;
+    position: absolute;
+    bottom: 0px; */
+}
