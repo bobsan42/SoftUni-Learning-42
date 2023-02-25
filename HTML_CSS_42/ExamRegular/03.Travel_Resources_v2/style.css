@@ -1,0 +1,106 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    overflow: hidden;
+    font-size: 24px;
+    color: black;
+}
+
+.container {
+    max-width: 66%;
+    margin: 1rem auto;
+    border: 1px solid blue;
+}
+.title-1 {
+    margin: 12px 6px;
+}
+
+.flex_hor {
+    border: 1px solid green;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    padding: 0;
+}
+
+.container.header {
+    color: blue;
+    display: none;
+}
+
+.nav-title {
+    list-style: none;
+    font-size: 12px;
+    justify-content: baseline;
+
+}
+.nav-title li {
+    margin: 6px 0px;
+    font-weight: bold;
+    font-size: 20px;
+    justify-content: flex-start;
+}
+
+.nav-menu {
+    width: 100%;
+    color: red;
+    list-style: none;
+    font-size: 12px;
+    justify-content: flex-end;
+}
+
+.nav-menu li {
+    cursor: pointer;
+    margin: 6px 6px;
+    padding: 6px;
+    color: #370511;
+    font-weight: 500;
+}
+
+.nav-menu li:nth-last-child(1) {
+    padding-left: 24px;
+    padding-right: 24px;
+    color: white;
+    background-color: #370511;
+    font-weight: bold;
+    border-radius: 16px;
+}
+
+.page-section {
+    font-size: 12px;
+    height: calc(80vh);
+}
+.titles {
+    display: flex;
+    flex-direction: column;
+    align-items: center ;
+
+}
+
+.page-section h6 {
+    font-size: 1.6em;
+    font-weight: 500;
+    margin-bottom: 12px;
+    margin-top: 12px;
+}
+
+.page-section h3 {
+    font-size: 3em;
+    font-weight: bold;
+}
+
+.page-section p, .page-section span{
+    margin-bottom: 24px;
+    margin-top: 12px;
+
+}
+.btn-text {
+    padding: 6px;
+    padding-left: 24px;
+    padding-right: 24px;
+    color: white;
+    background-color: #370511;
+    font-weight: bold;
+    border-radius: 16px;
+}

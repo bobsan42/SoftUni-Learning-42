@@ -1,0 +1,62 @@
+:root {
+    --bg-light: #f6e0b5;
+    --dark_brown: #66545e;
+    --border-dark:#362d2f;
+    --corner-radius: 24px;
+}
+a{
+
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    color: var(--dark_brown);
+    background-color: var(--bg-light);
+    padding: 1rem 1rem;
+    display: grid;
+    grid-template-columns: 38% 38% auto;
+    grid-template-rows: 42% 42%;
+    grid-template-areas: 
+    "reviews interviews navbar"
+    "tvshows arts navbar";
+    gap: 2rem;
+    overflow: hidden;
+    
+}
+
+.navbar {
+    padding-top: 24px;
+    grid-area: navbar;
+
+}
+
+.card {
+/*     width: 100%;
+ */    border: 1px solid var(--border-dark);
+    border-radius: var(--corner-radius);
+    font-weight: bold;
+    color: white;
+    background-color: var(--dark_brown);
+    text-indent: 10px;
+    box-shadow: 0 24px 24px 0 rgb(0 0 0 / 20%), 
+                10px 20px 24px 10px rgb(0 0 0 / 50%),
+                0 1px 3px 0 rgb(0 0 0 / 20%);
+}
+
+.card img {
+    max-height: 90%;
+    width: 100%;
+    border-top-right-radius: var(--corner-radius);
+    border-top-left-radius: var(--corner-radius);
+}
+
+li {
+    margin-bottom: 12px;
+}
+#reviews {grid-area: reviews;}
+
+#interviews {grid-area: interviews;}
+
+#tvshows {grid-area: tvshows;}
+
+#arts {grid-area: arts;}

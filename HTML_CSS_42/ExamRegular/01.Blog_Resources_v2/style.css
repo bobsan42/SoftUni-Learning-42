@@ -1,0 +1,82 @@
+:root {
+    --bg-light: #f6e0b5;
+    --dark_brown: #66545e;
+    --border-dark: #362d2f;
+    --corner-radius: 24px;
+}
+
+main {
+   /*  border: 1px solid red; */
+    grid-area: aleft;
+    height: calc(100vh - 2rem);
+}
+
+div {
+    /* border: 1px solid green; */
+    height: 100%;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    color: var(--dark_brown);
+    background-color: var(--bg-light);
+    padding: 1rem 1rem;
+    display: grid;
+    grid-template-columns: 80% auto;
+    grid-template-areas:"aleft aright";
+    gap: 2rem;
+    overflow: hidden;
+
+}
+
+.navbar {
+    padding-top: 24px;
+    grid-area: aright;
+
+}
+
+.card {
+    width: 48%;
+    height: 45%;
+    border: 1px solid var(--border-dark);
+    border-radius: var(--corner-radius);
+    font-weight: bold;
+    color: white;
+    background-color: var(--dark_brown);
+    text-indent: 10px;
+    box-shadow: 0 24px 24px 0 rgb(0 0 0 / 20%),
+        10px 20px 24px 10px rgb(0 0 0 / 50%),
+        0 1px 3px 0 rgb(0 0 0 / 20%);
+}
+
+.card img {
+    max-height: 85%;
+    width: 100%;
+    border-top-right-radius: var(--corner-radius);
+    border-top-left-radius: var(--corner-radius);
+}
+.card p {
+    padding: .5em;
+}
+
+ul {list-style-type: none;}
+li {margin-bottom: calc(var(--corner-radius)/2);}
+li:nth-child(1){
+    margin-bottom: var(--corner-radius);
+}
+
+#interviews , #tvshows , #arts {
+    /* display: none; */
+}
+.cards-container {
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+/*    flex-flow: row wrap; */
+    align-items: center;
+    justify-content: space-between;
+    height: 100%;
+    width: 100%;  
+}
