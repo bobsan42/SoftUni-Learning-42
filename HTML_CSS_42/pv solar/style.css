@@ -1,0 +1,30 @@
+.container {
+    display: block;
+    min-height: 100px;
+    width: auto;
+    border: 1px solid black;
+    margin: 1em 1em;
+    padding: 1em;
+}
+
+h1, h2, h3, h4 {
+    text-align: left;
+}
+
+.pv_module {
+    minlength: 24;
+    maxlength: 24;
+    width: 40px;
+    height: 80px;
+}
+
+.pv_table_3x8 {
+    background-color: aqua;
+    width: fit-content;
+    align-items: left;
+    border: 1px solid blue;
+}
+
+label {
+    vertical-align:top;
+}
