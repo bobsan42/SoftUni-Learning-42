@@ -1,0 +1,48 @@
+{
+    "client_id": "192.168.56.1",
+    "device_id": "C67CEFEAC733C903CEF171B477B5B254039E88FF81C264F6C57EAC443793F4FD&2CA298837FA26D2A2CADF01F1C490B01AEE9AA1D0CA1204D0983983E625851F1&D9E068268DED9BEA40D1ABEBD1449CA17D38823DF7AB1CB657309BF0E7AB6F5C",
+    "device_meta": {
+        "device_id_v1": "660742E9227192E715042C976C871FA50026A8E79E13A67CDF8E869043E035AF&3B99DA386595B892B42E8022336BA30279E36E7F1775EC1435DAE4115781237B&D9E068268DED9BEA40D1ABEBD1449CA17D38823DF7AB1CB657309BF0E7AB6F5C",
+        "device_id_v2": "C67CEFEAC733C903CEF171B477B5B254039E88FF81C264F6C57EAC443793F4FD&2CA298837FA26D2A2CADF01F1C490B01AEE9AA1D0CA1204D0983983E625851F1&D9E068268DED9BEA40D1ABEBD1449CA17D38823DF7AB1CB657309BF0E7AB6F5C"
+    },
+    "device_time": "2023-01-21T09:24:11.664638208+0200",
+    "event_id": "102af9c1-1611-43ed-9bd2-cfbe8c408874&1&1",
+    "facets": [
+        "product",
+        "user",
+        "device"
+    ],
+    "module_name": "ADP WIN",
+    "product_build_id": "1.35.0",
+    "product_id": "AUTODESKINSTALLSERVICE&2023&{F3454F5E-ED57-5CEA-BA7D-77D8F3E13D8D}&1.35.0",
+    "product_id_provider": "upi2",
+    "product_line_name": "AUTODESKINSTALLSERVICE",
+    "product_master_id": "{F3454F5E-ED57-5CEA-BA7D-77D8F3E13D8D}",
+    "product_name": "AUTODESKINSTALLSERVICE2023",
+    "product_release_id": "2023",
+    "scope": "S",
+    "sdk_version": "ADP WIN 4.3.0.0",
+    "session_id": "102af9c1-1611-43ed-9bd2-cfbe8c408874",
+    "type": "S",
+    "user_consent_metric": [
+        {
+            "consentId": "ADSK_PUD_CONTRACTUAL_NECESSITY_DESKTOP",
+            "optIn": null
+        },
+        {
+            "consentId": "ADSK_PUD_OPTIMIZATION_IMPROVEMENT_DESKTOP",
+            "optIn": null
+        },
+        {
+            "consentId": "ADSK_PUD_GO_TO_MARKET_DESKTOP",
+            "optIn": null
+        }
+    ],
+    "user_info": [
+        {
+            "provider_name": "",
+            "user_id": ""
+        }
+    ],
+    "version": "3.0.0"
+}

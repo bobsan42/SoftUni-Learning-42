@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Intro to DOM</title>
+</head>
+<body>
+    <h1>Introduction to DOM</h1>
+    <ul>
+        <p>-----------------------------------</p>
+        <input type="text" id="text-input" value="Input value">
+        <br>
+        <li id="li_one">DOM Methods example</li>
+        <li>DOM Properties Example</li>
+        <li id="third_li">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod consequatur error, eius ratione nihil dicta distinctio tenetur! 
+            <br> Earum, voluptate saepe temporibus sunt blanditiis 
+            <br> obcaecati soluta eos molestias accusantium hic autem!</li>
+    </ul>
+    <script>
+        let h1Element = document.getElementsByTagName('h1')[0];
+        console.log(h1Element);
+        document.getElementsByTagName('li')[0].textContent += ' - TODO!'
+
+        let secondLi = document.getElementsByTagName('li')[1];
+        secondLi.innerHTML += ' - DONE ' //<b> - DONE </b>;
+        const selectObjectsByCSSSelector = document.querySelectorAll('.lecture')
+        document.getElementsByTagName('li')[0].textContent += ' - TODO!'
+
+        console.dir(secondLi)
+
+        const liElements = document.getElementsByTagName('li');
+        for (const li of liElements){
+            console.log(li.id);
+            li.style.color ='red';
+            li.innerHTML += '<p>Custom paragraph</p>' ;
+
+        }
+
+        const ti = document.getElementById('text-input'); 
+
+        console.log(ti.value);
+        ti.value = 'Changed input !'
+    </script>
+    <script src="test_lab.js"></script>
+</body>
+</html>
