@@ -1,128 +1,151 @@
 window.addEventListener("load", solve);
 
-// Always use array from to transform a collection -> querySelectorAll, children
+//- always use array from to transform a collection -> queryselectorall, children
 
 function solve() {
-  const storyState = {
-    firstName: null,
-    lastName: null,
-    age: null,
-    title: null,
-    genre: null,
-    story: null,
-  };
-
+  // const p = createElement('p', document.getElementById('preview-list'), 'My Paragraph<br>My Paragraph', ['story', 'test', 'paragraph'], 'my-pid', null)
   const inputDOMSelectors = {
     firstName: document.getElementById('first-name'),
     lastName: document.getElementById('last-name'),
     age: document.getElementById('age'),
     title: document.getElementById('story-title'),
     genre: document.getElementById('genre'),
-    story: document.getElementById('story'),
-  };
+    story: document.getElementById('story')
+  }
 
-  const otherDOMSelectors = {
+  const otherDOMselectors = {
     publishBtn: document.getElementById('form-btn'),
     previewList: document.getElementById('preview-list'),
-    mainContainer: document.getElementById('main'),
+    main: document.getElementById('main')
+  }
+
+  const storyData = {
+    firstName: null,
+    lastName: null,
+    age: null,
+    title: null,
+    genre: null,
+    story: null
   };
 
-  otherDOMSelectors.publishBtn.addEventListener('click', publishStoryHandler);
+  otherDOMselectors.publishBtn.addEventListener('click', publishStoryHandler);
 
-  function publishStoryHandler() {
+  function publishStoryHandler(event) {
+    // debugger;
+    // validate - check is all input fields are filled
     const allFieldsHaveValue = Object.values(inputDOMSelectors)
       .every((input) => input.value !== '');
-    if(!allFieldsHaveValue) {
+    // console.log (allFieldsHaveValue);
+    if (!allFieldsHaveValue) {
+      // console.log('SOME FIELDS ARE EMPTY!');
       return;
     }
-
+    // create elements and add data to preview
     const { firstName, lastName, age, title, genre, story } = inputDOMSelectors;
-    const li = createElement('li', otherDOMSelectors.previewList, null, ['story-info']);
+    const li = createElement('li', otherDOMselectors.previewList, null, ['story-info']);
     const article = createElement('article', li);
     createElement('h4', article, `Name: ${firstName.value} ${lastName.value}`);
     createElement('p', article, `Age: ${age.value}`);
     createElement('p', article, `Title: ${title.value}`);
     createElement('p', article, `Genre: ${genre.value}`);
     createElement('p', article, story.value);
+
     const saveBtn = createElement('button', li, 'Save Story', ['save-btn']);
     const editBtn = createElement('button', li, 'Edit Story', ['edit-btn']);
-    const delBtn = createElement('button', li, 'Delete Story', ['delete-btn']);
-
-    editBtn.addEventListener('click', editStoryHandler);
-    delBtn.addEventListener('click', deleteStoryHandler);
-    saveBtn.addEventListener('click', saveStoryHandler);
-
+    const deleteBtn = createElement('button', li, 'Delete Story', ['delete-btn']);
+    
+    
+    
+    
+    // save data to another object - to be able to return it to the form
     for (const key in inputDOMSelectors) {
-      storyState[key] = inputDOMSelectors[key].value;
+      storyData [key] = inputDOMSelectors[key].value; 
     }
-
+    
+    
     clearAllInputs();
-    otherDOMSelectors.publishBtn.setAttribute('disabled', true);
-  }
+    // otherDOMselectors.publishBtn.setAttribute('disabled', true) ;
+    otherDOMselectors.publishBtn.disabled = true;
+    
+    editBtn.addEventListener ('click', editStoryHandler);
+    
+    function editStoryHandler () {
+      for (const key in storyData) {
+        inputDOMSelectors[key].value = storyData[key];
+      }
 
-  function editStoryHandler() {
-    for (const key in inputDOMSelectors) {
-      inputDOMSelectors[key].value = storyState[key];
+      // otherDOMselectors.publishBtn.removeAttribute('disabled');
+      otherDOMselectors.publishBtn.disabled = false;
+      
+      // otherDOMselectors.previewList.innerHTML = '';
+      // createElement ('h3',otherDOMselectors.previewList, 'Preview' );
+      // delete li; 
+      otherDOMselectors.previewList.removeChild(li);
+    }
+    
+    saveBtn.addEventListener('click', saveBtnHandler );
+    
+    function saveBtnHandler () {
+      otherDOMselectors.main.innerHTML='';
+      createElement('h1', otherDOMselectors.main, 'Your scary story is saved!');
+    }
+    
+    deleteBtn.addEventListener ('click', deleteBtnHandler);
+    
+    function deleteBtnHandler (event) {
+      // event.currentTarget.parentNode.remove();
+      // this.parentNode.remove();
+      li.remove();
+      otherDOMselectors.publishBtn.disabled = false;
     }
 
-    otherDOMSelectors.publishBtn.removeAttribute('disabled');
-    otherDOMSelectors.previewList.innerHTML = '';
-    createElement('h3', otherDOMSelectors.previewList, 'Preview');
+
+    function clearAllInputs() {
+      Object.values(inputDOMSelectors)
+        .forEach(element => {
+          element.value = '';
+        });
+    }
+
+
   }
 
-  function deleteStoryHandler() {
-    const liItem = this.parentNode;
-    liItem.remove();
-    otherDOMSelectors.publishBtn.removeAttribute('disabled');
-  }
-
-  function saveStoryHandler() {
-    otherDOMSelectors.mainContainer.innerHTML = '';
-    createElement('h1', otherDOMSelectors.mainContainer, 'Your scary story is saved!');
-  }
-
-  function clearAllInputs() {
-    Object.values(inputDOMSelectors)
-      .forEach((input) => {
-        input.value = '';
-      })
-  }
-
-
-  function createElement(type, parentNode, content, classes, id, attributes, useInnerHtml) {
+  function createElement(type, parentNode, content, classesArray, id, attributes, useInnerHtml) {
     const htmlElement = document.createElement(type);
-  
-    if (content && useInnerHtml) {
-      htmlElement.innerHTML = content;
+
+    if (useInnerHtml) {
+      htmlElement.innerHtml = content;
     } else {
       if (content && type !== 'input') {
         htmlElement.textContent = content;
       }
-  
       if (content && type === 'input') {
         htmlElement.value = content;
       }
     }
-  
-    if (classes && classes.length > 0) {
-      htmlElement.classList.add(...classes);
+
+    if (classesArray && classesArray.length > 0) {
+      htmlElement.classList.add(...classesArray);
     }
-  
+
     if (id) {
       htmlElement.id = id;
     }
-  
-    // { src: 'link', href: 'http' }
+
+    // {src: 'link', href: 'http'}
     if (attributes) {
       for (const key in attributes) {
-        htmlElement.setAttribute(key, attributes[key])
+        // htmlElement[key] = attributes [key];
+        htmlElement.setAttribute(key, attributes[key]);
       }
     }
-  
+
     if (parentNode) {
       parentNode.appendChild(htmlElement);
     }
-  
+
     return htmlElement;
+
   }
+
 }
